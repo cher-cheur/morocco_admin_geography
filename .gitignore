@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+# Data outputs
+/data/
+# Notebooks
+*.ipynb_checkpoints
+# System
+.DS_Store
+Thumbs.db
+# Editors
+.vscode/
+.idea/
+# Logs
+*.log
+# Misc
+debug_initial_form.html
+#files
+scrap_watiqa.py
+scrap_watiqa_ar.py
