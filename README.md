@@ -2,7 +2,7 @@
 
 This project allows you to scrape the Moroccan administrative divisions (regions, prefectures, communes) from [watiqa.ma](https://www.watiqa.ma/) in both French and Arabic, and export the data to JSON, CSV, and Excel formats.
 
-> **Note:** Ready-to-use data files (JSON, CSV, Excel) for both French and Arabic are already available in the `data` folder. All generated files will also be created in this folder.
+> **Note:** Ready-to-use data files (JSON, CSV, Excel) for both French and Arabic are already available in the `data` folder. All generated files will also be created in this folde
 
 ## Features
 
