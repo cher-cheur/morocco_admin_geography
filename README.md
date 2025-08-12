@@ -4,9 +4,6 @@ This project allows you to scrape the Moroccan administrative divisions (regions
 
 > **Note:** Ready-to-use data files (JSON, CSV, Excel) for both French and Arabic are already available in the `data` folder. All generated files will also be created in this folder.
 
-> **GitHub short description:**  
-Scrape Moroccan administrative divisions (regions, prefectures, communes) from watiqa.ma in French & Arabic. Export to JSON, CSV, Excel. Data already available in `/data`.
-
 ## Features
 
 - Scrape regions, prefectures, and communes from the official Moroccan administrative document request portal.

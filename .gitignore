@@ -6,8 +6,6 @@ __pycache__/
 .venv/
 env/
 venv/
-# Data outputs
-/data/
 # Notebooks
 *.ipynb_checkpoints
 # System
